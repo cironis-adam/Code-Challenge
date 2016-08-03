@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Volta-Charging/Code-Challenge#readme",
   "dependencies": {
+    "colors": "^1.1.2",
     "faker": "^3.1.0"
   }
 }

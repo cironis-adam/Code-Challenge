@@ -25,13 +25,13 @@ In order for Volta to objectively measure a fullstack candidate's fundamental Ja
 
 # Problem
 
-Create a simple web application which displays Volta station data and provides a search interface. We’ve given you a fake database of data in the form of `database.js`. Your client must use an MVC, with a preference for React or AngularJS; we’ve included a screenshot of the minimal UI/design we’d like to see, but it doesn’t need to be pixel perfect. The server should be JavaScript-based (f.e. Node.js, Express, etc.). Create a file named `RUNME.md` to explain how we should run and evaluate your solution locally.
+Create a simple web application which displays Volta station data and provides a search interface. We’ve given you a way to fake a database with the `database.js` script. Your client must use an MVC, with a preference for React or AngularJS; we’ve included a screenshot of the minimal UI/design we’d like to see, but it doesn’t need to be pixel perfect. The server should be JavaScript-based (f.e. Node.js, Express, etc.). Create a file named `RUNME.md` to explain how we should run and evaluate your solution locally.
 
 To give some more specifics to the requirements, we’ve included our evaluation rubric in this repository as `Code Challenge Rubric`. There’s no distinct passing score, but go for perfect, ok?
 
 ### Basic Requirements
 
-- [ ] Server reads from database.js
+- [ ] Server reads from database.json
 - [ ] API endpoint serves station data to client
 - [ ] Client displays data according to (or improving on) example
 - [ ] Stations are searchable by location name (locationName key)
@@ -41,6 +41,7 @@ To give some more specifics to the requirements, we’ve included our evaluation
 
 1. Read and understand the whole README.
 1. Fork this repository to your own account. Clone the repo locally.
+1. `npm install` in the root directory, then `node database.js` to create fake DB file.
 1. Cut a branch for your solution.
 1. Regularly commit changes to your local branch.
 1. When finished, push your branch to your remote.

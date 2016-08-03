@@ -1,6 +1,6 @@
 # Code-Challenge
 
-Candidates will create a simple, JavaScript web application..
+In order for Volta to objectively measure a fullstack candidate's fundamental JavaScript skills, candidates will create a simple web application using the MVC framework of their choice to acheive 2's and 3's (out of 3) in 6 domains set forth by the challenge evaluation rubric. Candidates should expect to spend about two hours on the challenge, use Git for version control, and provide local development documentation.
 
 ### SMART Goal (A.K.A. why you’re being asked to complete a coding challenge)
 
@@ -12,7 +12,7 @@ Candidates will create a simple, JavaScript web application..
 
 **Relevant**: Volta currently works in a Node.js ecosystem. Developers contribute across the fullstack with lots of autonomy. They need basic application architecture skills to start projects from scratch and knowledge of MVC development principals to iterate on the existing codebase.
 
-**Time-Bound**: In two hours, candidates should be able to complete the coding challenge with mostly 2’s and 3’s on the provided rubric.
+**Time-Bound**: In two hours, candidates should be able to complete the coding challenge with mostly 2’s and 3’s on the provided rubric. We commit (see what I did there?) to reviewing your challenge within two business days.
 
 ### Hiring Process
 
@@ -25,7 +25,7 @@ Candidates will create a simple, JavaScript web application..
 
 # Problem
 
-Create a simple web application which displays Volta station data and provides a search interface. We’ve given you a fake database of data in the form of `database.js`. Your client must use an MVC, with an extra point awarded for use of React or AngularJS; we’ve included a screenshot of the minimal UI/design we’d like to see, but it doesn’t need to be pixel perfect. The server should be JavaScript-based (f.e. Node.js, Express, etc.). Create a file named `RUNME.md` to explain how we should run and evaluate your solution locally.
+Create a simple web application which displays Volta station data and provides a search interface. We’ve given you a fake database of data in the form of `database.js`. Your client must use an MVC, with a preference for React or AngularJS; we’ve included a screenshot of the minimal UI/design we’d like to see, but it doesn’t need to be pixel perfect. The server should be JavaScript-based (f.e. Node.js, Express, etc.). Create a file named `RUNME.md` to explain how we should run and evaluate your solution locally.
 
 To give some more specifics to the requirements, we’ve included our evaluation rubric in this repository as `Code Challenge Rubric`. There’s no distinct passing score, but go for perfect, ok?
 
@@ -43,7 +43,7 @@ To give some more specifics to the requirements, we’ve included our evaluation
 1. Fork this repository to your own account. Clone the repo locally.
 1. Cut a branch for your solution.
 1. Regularly commit changes to your local branch.
-1. When finished, push your branch to your remote. 
+1. When finished, push your branch to your remote.
 1. Email us the link to your solution for review.
 
 ### Questions?

@@ -8,7 +8,7 @@ In order for Volta to objectively measure a fullstack candidate's fundamental Ja
 
 **Measurable**: When complete, the project should contain a simple client and server which displays station data based on the example given. We’ve included a (mostly) objective evaluation rubric for the challenge; we expect candidates to receive mostly 2's and 3's. Commit history will provide a running log of development steps and design choices.
 
-**Achievable**: Based on the phone screen and candidate’s supporting documentation (resume, etc.), we think you’ve got a great shot at completing the project. We’ve complete the challenge ourselves to make sure the scope and estimated time required is appropriate.
+**Achievable**: Based on the phone screen and candidate’s supporting documentation (resume, etc.), we think you’ve got a great shot at completing the project. We’ve completed the challenge ourselves to make sure the scope and estimated time required is appropriate.
 
 **Relevant**: Volta currently works in a Node.js ecosystem. Developers contribute across the fullstack with lots of autonomy. They need basic application architecture skills to start projects from scratch and knowledge of MVC development principals to iterate on the existing codebase.
 

@@ -1,6 +1,6 @@
 # Code-Challenge
 
-In order for Volta to objectively measure a fullstack candidate's fundamental JavaScript skills, candidates will create a simple web application using the MVC framework of their choice to acheive 2's and 3's (out of 3) in 6 domains set forth by the challenge evaluation rubric. Candidates should expect to spend about two hours on the challenge, use Git for version control, and provide local development documentation.
+In order for Volta to objectively measure a fullstack candidate's fundamental JavaScript skills, candidates will create a simple web application using the MVC framework of their choice to achieve 2's and 3's (out of 3) in 6 domains set forth by the challenge evaluation rubric. Candidates should expect to spend about two hours on the challenge, use Git for version control, and provide local development documentation.
 
 ### SMART Goal (A.K.A. why you’re being asked to complete a coding challenge)
 

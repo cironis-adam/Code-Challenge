@@ -25,9 +25,9 @@ In order for Volta to objectively measure a fullstack candidate's fundamental Ja
 
 # Problem
 
-Create a simple web application which displays Volta station data and provides a search interface. We’ve given you a way to fake a database with the `database.js` script. Your client must use an MVC, with a preference for React or AngularJS; we’ve included an image of the minimal UI/design we’d like to see in [`Minimal Design Expectation.png`](../blob/master/Minimal%20Design%20Expectation.png), but it doesn’t need to be pixel perfect. The server should be JavaScript-based (f.e. Node.js, Express, etc.). Create a file named `RUNME.md` to explain how we should run and evaluate your solution locally.
+Create a simple web application which displays Volta station data and provides a search interface. We’ve given you a way to fake a database with the `database.js` script. Your client must use an MVC, with a preference for React or AngularJS; we’ve included an image of the minimal UI/design we’d like to see in [`Minimal Design Expectation.png`](./Minimal%20Design%20Expectation.png), but it doesn’t need to be pixel perfect. The server should be JavaScript-based (f.e. Node.js, Express, etc.). Create a file named `RUNME.md` to explain how we should run and evaluate your solution locally.
 
-To give some more specifics to the requirements, we’ve included our evaluation rubric in this repository as [`Code Challenge Rubric.pdf`](../blob/master/Code%20Challenge%20Rubric.pdf). There’s no distinct passing score, but go for perfect, ok?
+To give some more specifics to the requirements, we’ve included our evaluation rubric in this repository as [`Code Challenge Rubric.pdf`](./Code%20Challenge%20Rubric.pdf). There’s no distinct passing score, but go for perfect, ok?
 
 ### Basic Requirements
 

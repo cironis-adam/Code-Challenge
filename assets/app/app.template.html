@@ -1,2 +1,16 @@
-<h1>Hello World</h1>
-<div class="panel">Test</div>
+<div class="row">
+    <div class="flex-container">
+        <br>
+        <input type="search" class="search-input" (keyup)="onKey($event)" placeholder="Find location...">
+        <br>
+        <div class="station" *ngFor="let station of stations">
+            <div class="{{station.broken}}">
+                {{ station.locationName }}
+            </div>
+            <div class="city">
+                {{ station.city }}
+            </div>
+        </div>
+
+    </div>
+</div>

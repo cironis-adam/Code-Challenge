@@ -9,6 +9,7 @@ body {
 }
 
 .flex-container {
+  margin-top: 200px;
   display: -webkit-flex; /* Safari */
   display: flex;
   -webkit-flex-direction: column; /* Safari */
@@ -21,39 +22,21 @@ body {
   input[type=search] {
     margin: auto;
     position: relative;
-    border: 10px solid transparent;
     width: 50%;
+    padding: 5px;
+    color: #111111;
+    font-size: 2rem;
+    border: 5px solid transparent;
     -webkit-transition: width 0.4s ease-in-out;
     transition: width 0.4s ease-in-out;
-    color: #111111;
-    font-weight: bold;
+    -moz-border-image: -moz-linear-gradient(top, #89C170 0%, #2E9EE4 100%);
+    -webkit-border-image: -webkit-linear-gradient(top, #89C170 0%, #2E9EE4 100%);
+    border-image: linear-gradient(to right, #89C170 0%, #2E9EE4 100%);
+    border-image-slice: 1;
   }
 
   input[type=search]:focus {
     width: 100%;
-  }
-
-  input[type=search]:before, input[type=search]:after {
-    content: "";
-    position: absolute;
-    top: -5px;
-    bottom: -5px;
-    left: -5px;
-    width: 5px;
-    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#a4b9ff), to(#FF0000));
-    background-image: -webkit-linear-gradient(#a4b9ff, #FF0000);
-    background-image: -moz-linear-gradient(#a4b9ff, #FF0000);
-    background-image: -o-linear-gradient(#a4b9ff, #FF0000);
-    background-image: linear-gradient(#a4b9ff, #FF0000);
-  }
-
-  input[type=search]:after {
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background: #a4b9ff;
-    z-index: -1;
   }
 
   .station {

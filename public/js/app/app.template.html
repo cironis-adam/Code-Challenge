@@ -1,12 +1,12 @@
 <div class="row">
     <div class="flex-container">
         <br>
-        <input type="search" class="search-input" (keyup)="onKey($event)" placeholder="Search...">
+        <searchbox (update)="value = $event"></searchbox>
         <br>
         <br>
         <br>
-        <div class="station" *ngFor="let station of stations">
-            <div class="{{station.broken}}">
+        <div class="station" *ngFor='let station of stations | search : value'>
+            <div class="{{ station.broken }}">
                 {{ station.locationName }}
             </div>
             <div class="city">

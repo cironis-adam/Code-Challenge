@@ -16,6 +16,7 @@ router.get('/', function(req, res, next) {
     });
 });
 
+/*
 router.get('/:search', function(req, res, next) {
 
     var search = req.params.search;
@@ -35,5 +36,6 @@ router.get('/:search', function(req, res, next) {
         res.json(searchResults);
     });
 });
+*/
 
 module.exports = router;

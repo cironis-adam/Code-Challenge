@@ -1,28 +1,24 @@
-import { Component } from '@angular/core';
-import {HTTP_PROVIDERS} from '@angular/http';
+import { Component, Input } from '@angular/core';
+import { HTTP_PROVIDERS } from '@angular/http';
 import { Station } from './station.model';
 import { StationService } from './station.service';
+import { SearchPipe } from './search-pipe';
+import { SearchBox } from './search-box';
 
 @Component({
     moduleId: module.id,
     selector: 'my-app',
     templateUrl: 'app.template.html',
-    providers: [StationService, HTTP_PROVIDERS]
+    directives: [ SearchBox ],
+    providers: [ StationService, HTTP_PROVIDERS ],
+    pipes: [ SearchPipe ]
 })
 export class AppComponent {
     stations: Station[] = [];
+    @Input() value;
 
     constructor (private stationService: StationService) {
         stationService.getStations("").subscribe(x => {
-            console.log(x);
-            this.stations = x
-        });
-    }
-
-    onKey(event:any) {
-        let searchValue = event.target.value;
-        console.log(event.target.value);
-        this.stationService.getStations(searchValue).subscribe(x => {
             console.log(x);
             this.stations = x
         });

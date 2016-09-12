@@ -20,6 +20,9 @@ body {
   -webkit-align-content: flex-start;
   /* Safari */
   align-content: flex-start; }
+  .flex-container .search-box {
+    display: block;
+    text-align: center; }
   .flex-container input[type=search] {
     margin: auto;
     position: relative;

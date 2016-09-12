@@ -1,6 +1,5 @@
 import { Injectable }     from '@angular/core';
 import { Headers, Http, Response } from '@angular/http';
-
 import { Station }           from './station.model';
 import { Observable, Subject, ReplaySubject } from 'rxjs/Rx';
 import 'rxjs/add/operator/map';

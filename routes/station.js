@@ -16,7 +16,7 @@ router.get('/', function(req, res, next) {
     });
 });
 
-/*
+/* Deprecated - Searching done using SearchPipe
 router.get('/:search', function(req, res, next) {
 
     var search = req.params.search;

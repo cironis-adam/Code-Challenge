@@ -2,8 +2,8 @@ import { Component, Input } from '@angular/core';
 import { HTTP_PROVIDERS } from '@angular/http';
 import { Station } from './station.model';
 import { StationService } from './station.service';
-import { SearchPipe } from './search-pipe';
-import { SearchBox } from './search-box';
+import { SearchPipe } from './search.pipe';
+import { SearchBox } from './searchbox.component';
 
 @Component({
     moduleId: module.id,

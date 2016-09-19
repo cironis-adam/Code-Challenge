@@ -2,21 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="142b6e16-f65e-4799-9939-5e260e5f7c3d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/app/search-box.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/app/search-pipe.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/app.component.ts" afterPath="$PROJECT_DIR$/assets/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/app.template.html" afterPath="$PROJECT_DIR$/assets/app/app.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/station.model.ts" afterPath="$PROJECT_DIR$/assets/app/station.model.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/station.service.ts" afterPath="$PROJECT_DIR$/assets/app/station.service.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/app.component.js" afterPath="$PROJECT_DIR$/public/js/app/app.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/app.template.html" afterPath="$PROJECT_DIR$/public/js/app/app.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/station.model.js" afterPath="$PROJECT_DIR$/public/js/app/station.model.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/station.service.js" afterPath="$PROJECT_DIR$/public/js/app/station.service.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/sass/style.scss" afterPath="$PROJECT_DIR$/public/sass/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/style.css.map" afterPath="$PROJECT_DIR$/public/stylesheets/style.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/search-box.js" afterPath="$PROJECT_DIR$/public/js/app/search-box.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/search.pipe.js" afterPath="$PROJECT_DIR$/public/js/app/search.pipe.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/bundles/forms.umd.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/bundles/forms.umd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/bundles/forms.umd.min.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/bundles/forms.umd.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/index.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/index.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/index.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/index.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/abstract_control_directive.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/abstract_control_directive.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/abstract_control_directive.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/abstract_control_directive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/abstract_control_directive.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/abstract_control_directive.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/abstract_form_group_directive.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/abstract_form_group_directive.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/abstract_form_group_directive.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/abstract_form_group_directive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/abstract_form_group_directive.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/abstract_form_group_directive.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/checkbox_value_accessor.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/checkbox_value_accessor.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/checkbox_value_accessor.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/checkbox_value_accessor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/checkbox_value_accessor.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/checkbox_value_accessor.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/control_container.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/control_container.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/control_container.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/control_container.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/control_container.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/control_container.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/control_value_accessor.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/control_value_accessor.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/control_value_accessor.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/control_value_accessor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/control_value_accessor.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/control_value_accessor.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/default_value_accessor.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/default_value_accessor.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/default_value_accessor.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/default_value_accessor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/default_value_accessor.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/default_value_accessor.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/form_interface.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/form_interface.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/form_interface.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/form_interface.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/form_interface.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/form_interface.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_control.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_control.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_control.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_control.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_control.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_control.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_control_status.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_control_status.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_control_status.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_control_status.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_control_status.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_control_status.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_form.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_form.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_form.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_form.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_form.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_model.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_model.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_model.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_model.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_model.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_model.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_model_group.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_model_group.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_model_group.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_model_group.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_model_group.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/ng_model_group.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/normalize_validator.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/normalize_validator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/normalize_validator.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/normalize_validator.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/number_value_accessor.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/number_value_accessor.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/number_value_accessor.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/number_value_accessor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/number_value_accessor.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/number_value_accessor.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/radio_control_value_accessor.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/radio_control_value_accessor.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/radio_control_value_accessor.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/radio_control_value_accessor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/radio_control_value_accessor.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/radio_control_value_accessor.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_control_directive.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_control_directive.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_control_directive.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_control_directive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_control_directive.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_control_directive.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_control_name.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_control_name.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_control_name.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_control_name.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_control_name.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_control_name.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_group_directive.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_group_directive.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_group_directive.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_group_directive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_group_directive.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_group_directive.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_group_name.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_group_name.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_group_name.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_group_name.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_group_name.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/reactive_directives/form_group_name.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/select_control_value_accessor.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/select_control_value_accessor.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/select_control_value_accessor.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/select_control_value_accessor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/select_control_value_accessor.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/select_control_value_accessor.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/select_multiple_control_value_accessor.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/select_multiple_control_value_accessor.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/select_multiple_control_value_accessor.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/select_multiple_control_value_accessor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/select_multiple_control_value_accessor.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/select_multiple_control_value_accessor.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/shared.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/shared.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/shared.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/shared.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/shared.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/shared.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/validators.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/validators.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/validators.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/validators.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/validators.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/directives/validators.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/async.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/async.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/async.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/async.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/async.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/collection.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/collection.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/collection.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/collection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/collection.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/collection.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/lang.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/lang.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/lang.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/lang.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/lang.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/facade/lang.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/form_builder.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/form_builder.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/form_builder.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/form_builder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/form_builder.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/form_builder.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/form_providers.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/form_providers.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/form_providers.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/form_providers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/form_providers.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/form_providers.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/forms.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/forms.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/forms.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/forms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/forms.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/forms.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/model.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/model.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/model.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/model.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/model.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/model.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/validators.d.ts" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/validators.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/validators.js" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/validators.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/validators.js.map" afterPath="$PROJECT_DIR$/public/js/vendor/@angular/forms/src/validators.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/systemjs.config.js" afterPath="$PROJECT_DIR$/public/systemjs.config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/station.js" afterPath="$PROJECT_DIR$/routes/station.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/app/search-box.ts" afterPath="$PROJECT_DIR$/assets/app/searchbox.component.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/app/search-pipe.ts" afterPath="$PROJECT_DIR$/assets/app/search.pipe.ts" />
     </list>
     <ignored path="Code-Challenge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,8 +137,8 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            <state relative-caret-position="374">
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
@@ -54,44 +149,46 @@
       <file leaf-file-name="station.model.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/app/station.model.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+            <state relative-caret-position="88">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/sass/style.scss">
+      <file leaf-file-name="searchbox.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/app/searchbox.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-679">
-              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="search-box.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/app/search-box.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="594">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
               <folding>
-                <element signature="e#0#64#0" expanded="true" />
-                <marker date="1473716135550" expanded="true" signature="307:423" ph="..." />
-                <marker date="1473716135550" expanded="true" signature="308:328" ph="..." />
-                <marker date="1473716135550" expanded="true" signature="308:418" ph="..." />
+                <element signature="e#0#83#0" expanded="true" />
+                <marker date="1474289129727" expanded="true" signature="420:580" ph="..." />
+                <marker date="1474289129727" expanded="true" signature="421:441" ph="..." />
+                <marker date="1474289129727" expanded="true" signature="421:575" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search-pipe.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/app/search-pipe.ts">
+      <file leaf-file-name="station.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/station.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="0">
+              <caret line="0" column="33" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="station.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/app/station.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,8 +196,8 @@
       <file leaf-file-name="app.template.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/app/app.template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="198">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -127,15 +224,18 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/RUNME.md" />
         <option value="$PROJECT_DIR$/assets/app/station.service.ts" />
-        <option value="$PROJECT_DIR$/routes/station.js" />
         <option value="$PROJECT_DIR$/assets/app/search.pipe.ts" />
         <option value="$PROJECT_DIR$/assets/app/station.model.ts" />
         <option value="$PROJECT_DIR$/assets/app/search-pipe.ts" />
         <option value="$PROJECT_DIR$/public/sass/style.scss" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/assets/app/app.template.html" />
-        <option value="$PROJECT_DIR$/assets/app/app.component.ts" />
         <option value="$PROJECT_DIR$/assets/app/search-box.ts" />
+        <option value="$PROJECT_DIR$/assets/app/searchboxcomponent.ts" />
+        <option value="$PROJECT_DIR$/assets/app/app.template.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/systemjs.config.js" />
+        <option value="$PROJECT_DIR$/assets/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/routes/station.js" />
+        <option value="$PROJECT_DIR$/assets/app/searchbox.component.ts" />
       </list>
     </option>
   </component>
@@ -156,10 +256,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="41" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="69" />
+    <option name="y" value="-9" />
+    <option name="width" value="1860" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -202,6 +302,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,10 +311,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code-Challenge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code-Challenge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code-Challenge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code-Challenge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code-Challenge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code-Challenge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code-Challenge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code-Challenge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,25 +464,30 @@
       <workItem from="1473530196512" duration="155000" />
       <workItem from="1473530372472" duration="4160000" />
       <workItem from="1473695239373" duration="15106000" />
+      <workItem from="1473762096707" duration="7502000" />
+      <workItem from="1473781767226" duration="3990000" />
+      <workItem from="1473967990927" duration="911000" />
+      <workItem from="1474219346388" duration="4501000" />
+      <workItem from="1474286779910" duration="3357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57077000" />
+    <option name="totallyTimeSpent" value="77338000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="41" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <frame x="69" y="-9" width="1860" height="1098" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.146875" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28610206" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30186608" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28095734" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -354,14 +515,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/app/search-pipe.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/app/app.template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -408,7 +561,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/search-pipe.ts">
+    <entry file="file://$PROJECT_DIR$/assets/app/search.pipe.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
@@ -574,13 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/systemjs.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/www">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1541">
@@ -588,36 +734,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/typings.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/typings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -642,13 +759,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -660,13 +777,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RUNME.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -674,20 +791,6 @@
             <caret line="6" column="86" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/station.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/station.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -702,7 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="526" column="22" selection-start-line="526" selection-start-column="22" selection-end-line="526" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,14 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="833" selection-start-line="0" selection-start-column="831" selection-end-line="0" selection-end-column="833" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -732,29 +826,105 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/sass/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-679">
+        <state relative-caret-position="484">
           <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/vendor/rxjs/src/add/operator/debounceTime.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/systemjs.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/app/station.model.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        <state relative-caret-position="88">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/app/station.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/app/app.template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="198">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/search-pipe.ts">
+    <entry file="file://$PROJECT_DIR$/routes/station.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="33" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/app/search.pipe.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
@@ -762,25 +932,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/assets/app/searchbox.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        <state relative-caret-position="594">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
           <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/search-box.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-            <marker date="1473716135550" expanded="true" signature="307:423" ph="..." />
-            <marker date="1473716135550" expanded="true" signature="308:328" ph="..." />
-            <marker date="1473716135550" expanded="true" signature="308:418" ph="..." />
+            <element signature="e#0#83#0" expanded="true" />
+            <marker date="1474289129727" expanded="true" signature="420:580" ph="..." />
+            <marker date="1474289129727" expanded="true" signature="421:441" ph="..." />
+            <marker date="1474289129727" expanded="true" signature="421:575" ph="..." />
           </folding>
         </state>
       </provider>
